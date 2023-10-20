@@ -1,0 +1,24 @@
+/* CardStyles.css */
+.mycard {
+    margin-left: 40%;
+    margin-top: 20px;
+    border: 1px solid #000; 
+    border-radius: 15px; 
+    padding: 20px; 
+    width: 18rem;
+    background-color: #d4ddea;
+  }
+  .mycard h1 {
+    color: blue;
+    font-size: 14px;
+  }
+  .mycard p {
+    font-size: 15px;
+  }
+  .price {
+    color: green;
+  }
+  .myp {
+    text-align: center;
+    line-height: 100px;
+  }
